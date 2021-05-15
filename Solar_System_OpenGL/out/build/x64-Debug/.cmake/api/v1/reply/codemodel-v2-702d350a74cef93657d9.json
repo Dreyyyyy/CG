@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BlueMarble",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BlueMarble::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BlueMarble-Debug-43daa03bfe4b3bb6821c.json",
+					"name" : "BlueMarble",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Matrizes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Matrizes-Debug-2172eefbbc89b35ee61c.json",
+					"name" : "Matrizes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Vetores::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Vetores-Debug-0ba9541534fb937acb51.json",
+					"name" : "Vetores",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Drey/Desktop/Solar_System_OpenGL/out/build/x64-Debug",
+		"source" : "C:/Users/Drey/Desktop/Solar_System_OpenGL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
